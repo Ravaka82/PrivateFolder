@@ -14,5 +14,10 @@ github ravaka
 ->mail: rakotonarivosaholintsoaravaka@gmail.com
 ->mdp: ravaka821008 na Ravaka821008
 
+phpmyadmin
+->http://devphpmyadmin.techtablet.fr/
+->user: admin
+->mdp: 4L.1HAu(YRd[gwG6
+
 
 
