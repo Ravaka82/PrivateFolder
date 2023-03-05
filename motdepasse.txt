@@ -1,0 +1,18 @@
+compte otlook 
+->mdp: Yuki1008?
+->email:ravaka@techtablet.fr
+
+compte basecamp
+->mdp: RakotonarivoSaholintsoaRavaka1008
+
+acces serveur
+->username: ravaka
+->mdp: vs@7+p$-DN
+serveur de test: dev.techtablet.fr
+
+github ravaka
+->mail: rakotonarivosaholintsoaravaka@gmail.com
+->mdp: ravaka821008 na Ravaka821008
+
+
+
